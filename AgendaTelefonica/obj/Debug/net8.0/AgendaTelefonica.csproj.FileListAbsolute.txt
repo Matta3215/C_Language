@@ -1,4 +1,0 @@
-D:\USUARIO\Desktop\C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
-D:\USUARIO\Desktop\C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.AssemblyInfoInputs.cache
-D:\USUARIO\Desktop\C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.AssemblyInfo.cs
-D:\USUARIO\Desktop\C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.csproj.CoreCompileInputs.cache
