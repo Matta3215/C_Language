@@ -1,0 +1,14 @@
+C:\DevC\IBGE\bin\Debug\net8.0\IBGE.exe
+C:\DevC\IBGE\bin\Debug\net8.0\IBGE.deps.json
+C:\DevC\IBGE\bin\Debug\net8.0\IBGE.runtimeconfig.json
+C:\DevC\IBGE\bin\Debug\net8.0\IBGE.dll
+C:\DevC\IBGE\bin\Debug\net8.0\IBGE.pdb
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.AssemblyInfoInputs.cache
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.AssemblyInfo.cs
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.csproj.CoreCompileInputs.cache
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.dll
+C:\DevC\IBGE\obj\Debug\net8.0\refint\IBGE.dll
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.pdb
+C:\DevC\IBGE\obj\Debug\net8.0\IBGE.genruntimeconfig.cache
+C:\DevC\IBGE\obj\Debug\net8.0\ref\IBGE.dll
