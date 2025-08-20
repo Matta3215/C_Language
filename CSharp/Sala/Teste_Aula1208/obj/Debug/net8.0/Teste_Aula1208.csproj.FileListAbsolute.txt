@@ -1,0 +1,14 @@
+C:\DevC\Teste_Aula1208\bin\Debug\net8.0\Teste_Aula1208.exe
+C:\DevC\Teste_Aula1208\bin\Debug\net8.0\Teste_Aula1208.deps.json
+C:\DevC\Teste_Aula1208\bin\Debug\net8.0\Teste_Aula1208.runtimeconfig.json
+C:\DevC\Teste_Aula1208\bin\Debug\net8.0\Teste_Aula1208.dll
+C:\DevC\Teste_Aula1208\bin\Debug\net8.0\Teste_Aula1208.pdb
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.AssemblyInfoInputs.cache
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.AssemblyInfo.cs
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.csproj.CoreCompileInputs.cache
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.dll
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\refint\Teste_Aula1208.dll
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.pdb
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\Teste_Aula1208.genruntimeconfig.cache
+C:\DevC\Teste_Aula1208\obj\Debug\net8.0\ref\Teste_Aula1208.dll
