@@ -2,7 +2,7 @@
 List<float> lista_idades = new List<float>();
 do
 {
-    Console.WriteLine("Digite sua idade: ");
+    Console.WriteLine("Digite uma idade: ");
     idade = float.Parse(Console.ReadLine());
     if(idade > 0)
     {
@@ -41,7 +41,8 @@ foreach (float n in lista_idades)
 
 
     Console.WriteLine($"Porcentagem do Grupo A: {g_A * 100 / n_total}%");
-    Console.WriteLine($"Porcentagem do Grupo A: {g_B * 100 / n_total}%");
-    Console.WriteLine($"Porcentagem do Grupo A: {g_C * 100 / n_total}%");
-    Console.WriteLine($"Porcentagem do Grupo A: {g_D * 100 / n_total}%");
-    Console.WriteLine($"Porcentagem do Grupo A: {g_E * 100 / n_total}%");
+    Console.WriteLine($"Porcentagem do Grupo B: {g_B * 100 / n_total}%");
+    Console.WriteLine($"Porcentagem do Grupo C: {g_C * 100 / n_total}%");
+    Console.WriteLine($"Porcentagem do Grupo D: {g_D * 100 / n_total}%");
+    Console.WriteLine($"Porcentagem do Grupo E: {g_E * 100 / n_total}%");
+
