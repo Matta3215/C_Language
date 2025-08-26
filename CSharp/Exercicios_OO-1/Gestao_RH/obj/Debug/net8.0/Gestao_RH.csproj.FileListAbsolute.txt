@@ -1,0 +1,14 @@
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.AssemblyInfo.cs
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\bin\Debug\net8.0\Gestao_RH.exe
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\bin\Debug\net8.0\Gestao_RH.deps.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\bin\Debug\net8.0\Gestao_RH.runtimeconfig.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\bin\Debug\net8.0\Gestao_RH.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\bin\Debug\net8.0\Gestao_RH.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\refint\Gestao_RH.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\Gestao_RH.genruntimeconfig.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Gestao_RH\obj\Debug\net8.0\ref\Gestao_RH.dll

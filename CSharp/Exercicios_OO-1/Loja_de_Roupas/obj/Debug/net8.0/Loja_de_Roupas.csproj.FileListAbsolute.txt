@@ -1,0 +1,14 @@
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.AssemblyInfo.cs
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\bin\Debug\net8.0\Loja_de_Roupas.exe
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\bin\Debug\net8.0\Loja_de_Roupas.deps.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\bin\Debug\net8.0\Loja_de_Roupas.runtimeconfig.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\bin\Debug\net8.0\Loja_de_Roupas.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\bin\Debug\net8.0\Loja_de_Roupas.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\refint\Loja_de_Roupas.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\Loja_de_Roupas.genruntimeconfig.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Loja_de_Roupas\obj\Debug\net8.0\ref\Loja_de_Roupas.dll

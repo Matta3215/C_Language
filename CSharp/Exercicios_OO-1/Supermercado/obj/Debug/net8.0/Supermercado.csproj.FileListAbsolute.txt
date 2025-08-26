@@ -1,0 +1,14 @@
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\bin\Debug\net8.0\Supermercado.exe
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\bin\Debug\net8.0\Supermercado.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
