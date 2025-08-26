@@ -1,0 +1,14 @@
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.AssemblyInfo.cs
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\bin\Debug\net8.0\Google.exe
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\bin\Debug\net8.0\Google.deps.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\bin\Debug\net8.0\Google.runtimeconfig.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\bin\Debug\net8.0\Google.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\bin\Debug\net8.0\Google.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\refint\Google.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\Google.genruntimeconfig.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Google\obj\Debug\net8.0\ref\Google.dll

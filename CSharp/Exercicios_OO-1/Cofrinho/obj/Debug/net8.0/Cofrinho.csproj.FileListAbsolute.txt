@@ -1,0 +1,14 @@
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.AssemblyInfo.cs
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\bin\Debug\net8.0\Cofrinho.exe
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\bin\Debug\net8.0\Cofrinho.deps.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\bin\Debug\net8.0\Cofrinho.runtimeconfig.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\bin\Debug\net8.0\Cofrinho.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\bin\Debug\net8.0\Cofrinho.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\refint\Cofrinho.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\Cofrinho.genruntimeconfig.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Cofrinho\obj\Debug\net8.0\ref\Cofrinho.dll
