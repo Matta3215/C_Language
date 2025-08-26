@@ -1,0 +1,14 @@
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.AssemblyInfo.cs
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\bin\Debug\net8.0\Verao_Capixaba_02.exe
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\bin\Debug\net8.0\Verao_Capixaba_02.deps.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\bin\Debug\net8.0\Verao_Capixaba_02.runtimeconfig.json
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\bin\Debug\net8.0\Verao_Capixaba_02.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\bin\Debug\net8.0\Verao_Capixaba_02.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\refint\Verao_Capixaba_02.dll
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.pdb
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\Verao_Capixaba_02.genruntimeconfig.cache
+D:\USUARIO\Desktop\CSharp\Exercicios_OO-1\Verao_Capixaba_02\obj\Debug\net8.0\ref\Verao_Capixaba_02.dll
