@@ -24,6 +24,8 @@ int main()
     
     if (buscar(n, vetor, 7) != -1){
         printf("O valor se encontra na %dª posição ", buscar(n, vetor, 7)+1);
+    }else{
+        printf("O valor não se encontra no vetor");
     }
     return 0;
 }
