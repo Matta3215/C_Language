@@ -1,17 +1,20 @@
 
 #include <stdio.h>
 
-void insertionSort(int *v, int n) {
-    for (int i = 1; i < n; i++) {
-        int chave = v[i];
-        int j = i - 1;
-
-        while (j >= 0 && v[j] > chave) {
-            v[j + 1] = v[j];
-            j--;
+void bubbleSort(int *v, int n){
+    int i, troca, aux;
+    do {
+        troca = 0;
+        for(i = 0; i < n -1; i++){
+        
+        if(v[i] > v[i+1]){
+            aux = v[i];
+            v[i] = v[i+1];
+            v[i+1] = aux;
+            troca = 1;
         }
-        v[j + 1] = chave;
     }
+ } while(troca == 1);
 }
 
 void imprimirVetor(int *v, int n){
@@ -31,7 +34,7 @@ int main()
     printf("Vetor original:\n");
     imprimirVetor(vetor, n);
     
-    insertionSort(vetor, n);
+    bubbleSort(vetor, n);
     
     printf("\n");
     
