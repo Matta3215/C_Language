@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-void InsertonSort(int *v, int n){
+void InsertionSort(int *v, int n){
     int i, j, aux;
     for(i = 1; i < n; i++){
         aux = v[i];
@@ -37,3 +37,4 @@ int main()
     imprimirVetor(vetor, n);
 
 }
+
