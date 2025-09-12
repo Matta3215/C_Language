@@ -1,16 +1,14 @@
 
 #include <stdio.h>
 
-void insertionSort(int *v, int n) {
-    for (int i = 1; i < n; i++) {
-        int chave = v[i];
-        int j = i - 1;
-
-        while (j >= 0 && v[j] > chave) {
-            v[j + 1] = v[j];
-            j--;
+void InsertonSort(int *v, int n){
+    int i, j, aux;
+    for(i = 1; i < n; i++){
+        aux = v[i];
+        for (j = i; j > 0 && aux < v[j - 1]; j--){
+            v[j] = v[j - 1];
         }
-        v[j + 1] = chave;
+        v[j] = aux;
     }
 }
 
@@ -37,4 +35,5 @@ int main()
     
     printf("Vetor ordenado:\n");
     imprimirVetor(vetor, n);
+
 }
