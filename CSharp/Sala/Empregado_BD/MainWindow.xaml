@@ -1,0 +1,27 @@
+﻿<Window x:Class="Empregado_BD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Empregado_BD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.461,0.498">
+        <Button Content="Pesquisar" HorizontalAlignment="Left" Margin="611,127,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button Content="Salvar" HorizontalAlignment="Left" Margin="611,152,0,0" VerticalAlignment="Top"  Width="60"/>
+        <Button Content="Excluir" HorizontalAlignment="Left" Margin="611,177,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button Content="Limpar" HorizontalAlignment="Left" Margin="611,202,0,0" VerticalAlignment="Top" Width="60"/>
+        <TextBox TextWrapping="Wrap" Text="" Margin="405,114,209,298"/>
+        <TextBox TextWrapping="Wrap" Text="" Margin="405,141,209,271"/>
+        <TextBox TextWrapping="Wrap" Text="" Margin="405,168,209,244"/>
+        <TextBox TextWrapping="Wrap" Text="" Margin="405,194,209,200"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="120" Margin="596,114,0,0" VerticalAlignment="Top" Width="90" CornerRadius="10,10,10,10"/>
+        <Label Content="Matricula:" HorizontalAlignment="Left" Margin="341,111,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label Content="CPF:" HorizontalAlignment="Left" Margin="341,138,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label Content="Nome:" HorizontalAlignment="Left" Margin="341,163,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label Content="Endereço:" HorizontalAlignment="Left" Margin="341,187,0,0" VerticalAlignment="Top" Height="28"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="124,239,114,69"/>
+        <Label Content="Dados do Empregado" HorizontalAlignment="Left" Margin="123,49,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="25"/>
+
+    </Grid>
+</Window>
