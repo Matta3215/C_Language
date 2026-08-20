@@ -3,43 +3,79 @@
 
 
 class Produto {
+private:
 
-int codigo;
-int quantidade;
-double preco;
+    int codigo;
+    int quantidade;
+    double preco;
 
 public:
-    void definirDados() {
+    /*void definirDados() {
 
     std::cout << "\n==== CADASTRO DE PRODUTO ====\n";
     std::cout << "Digite o Codigo: ";
     std::cin >> codigo;
+    
+    std::cout << "Digite a Quantidade: ";
+    std::cin >> quantidade;
 
     std::cout << "Digite o Preco: R$";
     std::cin >> preco;
 
-    std::cout << "Digite a Quantidade: ";
-    std::cin >> quantidade;
-    }
+    }*/
 
     void aplicarDesconto(double percentual){
         std::cout << "\nDigite o desconto: ";
         std::cin >> percentual;
-
-        preco = preco - (preco*percentual/100);
+        if (percentual >= 0){
+            setPreco(preco - (preco*percentual/100));
+        }
+        else{
+            std::cout << "\nValor invalido\n";
+        }
     }
 
-    void exibirDados(){
+    /*void exibirDados(){
         std::cout << "\n==== PRODUTO ====\n";
         std::cout << "Codigo: "<< codigo <<"\n";
         std::string precoFormat = std::format("Preco: R${:.2f}", preco);
         std::cout << precoFormat << "\n";
         std::cout << "Quantidade: " << quantidade << "\n\n";
-    }
+    }*/
 
     double calcularValorEstoque(){
         return preco * quantidade;
     }
+
+    int getCodigo(){
+        return codigo;
+    }
+
+    void setCodigo(int novoCodigo){
+        if (novoCodigo >= 0.0){
+            codigo = novoCodigo;
+        }
+    }
+
+    int getQuantidade(){
+        return quantidade;
+    }
+
+    void setQuantidade(int novaQuantidade){
+        if (novaQuantidade >= 0.0){
+            quantidade = novaQuantidade;
+        }
+    }
+    
+    double getPreco(){
+        return preco;
+    }
+
+    void setPreco(double novoPreco){
+        if (novoPreco >= 0.0){
+            preco = novoPreco;
+        }
+    }    
 
 };
 
@@ -48,12 +84,30 @@ int main(){
     double desconto;
     
     
-    produto.definirDados();
+    produto.setCodigo(67);
+    produto.setQuantidade(30);
+    produto.setPreco(150);
+
+    //produto.definirDados();
+    //produto.exibirDados();
+    
     produto.aplicarDesconto(desconto);
     double valorEstoque = produto.calcularValorEstoque();
-    produto.exibirDados();
     
+    std::cout << "\n==== PRODUTO ====\n";
+
+    std::string codigoFormat = std::format("Codigo: {}", produto.getCodigo());
+    std::cout << codigoFormat << std::endl;
+
+    std::string precoFormat = std::format("Preco: R${:.2f}", produto.getPreco());
+    std::cout << precoFormat << "\n";
+
+    std::string quantidadeFormat = std::format("Quantidade: {}", produto.getQuantidade());
+    std::cout << quantidadeFormat << "\n";
+
     std::string valorEstoqueFormat = std::format("Valor total do estoque: R${:.2f}", valorEstoque);
-    std::cout << valorEstoqueFormat << "\n";
+    std::cout << "\n" << valorEstoqueFormat << "\n\n";
+
+    
     return 0;
 }
